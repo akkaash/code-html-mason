@@ -8,13 +8,13 @@
 		"vscode": "^0.10.6"
 	},
 	"categories": [
-		"Languages"
+		"Programming Languages"
 	],
 	"contributes": {
 		"languages": [{
 			"id": "mason",
 			"aliases": ["HTML (Mason)", "mason"],
-			"extensions": [".mhtml",".autohandler",".dhandler",".md",".mc"],
+			"extensions": [".mhtml",".autohandler",".dhandler",".md",".mc",".mi",".m"],
 			"configuration": "./mason.configuration.json"
 		}],
 		"grammars": [{

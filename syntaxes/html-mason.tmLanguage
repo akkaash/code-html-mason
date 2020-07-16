@@ -9,6 +9,8 @@
 		<string>dhandler</string>
 		<string>md</string>
 		<string>mc</string>
+		<string>mi</string>
+		<string>m</string>
 	</array>
 	<key>foldingStartMarker</key>
 	<string>(&lt;(?i:(head|table|div|style|script|ul|ol|form|dl))\b.*?&gt;|\{)</string>
